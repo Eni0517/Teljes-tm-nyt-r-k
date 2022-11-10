@@ -41,3 +41,32 @@ a{
     display: block;
     text-align: center;
 }
+#turazokep{
+    width: 550px;
+    float: right;
+    margin-left: 30px;
+}
+table, th, td{
+    border: 2px rgb(64,99,33) solid;
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    background-image:url("forras/turacipo_vilagos.jpg");
+    background-size: cover;
+}
+th{
+    background-color: rgb(64,99,33);
+    color: white;
+    font-size: 22px;
+    height: 60px;
+    vertical-align: middle;
+}
+caption{
+    font-variant: small-caps;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(64,99,33);
+    text-align: left;
+    margin-bottom: 20px;
+}
